@@ -1,0 +1,30 @@
+.banner{background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/Historia.jpg?alt=media&token=6d2cb75b-70ed-4eca-9ccd-c5cb64e0adfc");
+background-position:top center;     
+background-size:cover; 
+height:200%;
+align-items: center;
+text-align: center;
+background-attachment: fixed;
+color: #fff; }
+
+h3{
+    font-size: 30px; 
+    font-family: 'Acme', sans-serif;
+}
+    
+p{ 
+    font-size: 20px; 
+    font-family: 'Acme', sans-serif;
+}  
+
+.HistoriaTitle{ 
+    font-size: 100px; 
+    color: black;
+    font-family: 'Acme', sans-serif;
+}
+
+.imagen{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
